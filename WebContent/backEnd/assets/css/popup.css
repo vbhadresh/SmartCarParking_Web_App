@@ -1,0 +1,14 @@
+
+.myButton
+{
+	background-color: #89AB20;
+    color: 	;
+    display: inline-block;
+    font-weight: bold;
+    height: 24px;
+    line-height: 25px;
+    text-align: center;
+    width: 90px;
+    border-radius:5px;
+}
+
